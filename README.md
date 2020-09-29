@@ -11,6 +11,6 @@ A website that offers fitness training services.
 https://lernantino.gihub.io/run-buddy/
 
 ## Contribution
-Made with ❤️ br Dan Brockman
+Made with ❤️ by Dan Brockman
 
-### Run Buddy 2019
+### ©️2019 Run Buddy, Inc
