@@ -399,6 +399,25 @@ section {
     padding: 1em;
 }
 
+.box1 {
+    grid-column-start: 1;
+    grid-column-end: 1;
+    grid-row-start: 1;
+    grid-row-end: 3;
+}
+
+.box2 {
+    grid-column: 3/4;
+    grid-row: 1/-1;
+}
+
+.box3 {
+    grid-column: 2/ span 2;
+    grid-row: 3/ span 1;
+}
+
+
+
 /* MEDIA QUERY FOR TABLETS AND SMALLER */   
 @media screen and (max-width: 768px) {
 
